@@ -19,7 +19,7 @@ Package managers allow you to:
 * Install multiple packages for you and even make sure to install other software that an app may require.
 * Upgrade and remove packages
 Search for packages.
-* And much more.
+
 
 ## Installation
 
