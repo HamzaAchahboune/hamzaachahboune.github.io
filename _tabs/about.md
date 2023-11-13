@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# <span style="color:#0b5ed7">I'm a Network</span> and Computer Science Engineering Student
+# <span style="color:#7eacd8">I'm a Network</span> and Computer Science Engineering Student
 
 <span style="font-family: 'Your Font Name', sans-serif;">I am Hamza Achahboune, and I am actively seeking an internship opportunity for my End of Studies Project. (PFE), starting on 1st March. I am eager to apply my professional knowledge and tackle new challenges in the areas of Networking, Cloud, or Cybersecurity. I am looking for a company that can provide me with the opportunity to gain practical experience and further develop my skills.</span>
 
