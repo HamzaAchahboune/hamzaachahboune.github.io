@@ -22,8 +22,8 @@ order: 4
 .download-button,
 .badges-button {
     display: inline-block;
-    background-color: #0b5ed7;
-    color: #000;
+    background-color: #8ab4f8;
+    color: #fff;
     padding: 10px 20px;
     font-family: 'Your Font';
     text-decoration: none;
