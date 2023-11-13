@@ -7,7 +7,7 @@ author: Hamza Achahboune
 layout: post
 ---
 # Chocolatey: A guide to windows package management
-
+![img-description](/assets/img/Blog/choco.png)
 ## Introduction
 
 Chocolatey is a package manager for Windows that automates the process of installing, updating, and managing software. It simplifies the software management process by providing a command-line interface to handle package installations and updates. In this tutorial, we'll cover the basics of Chocolatey.
@@ -93,3 +93,4 @@ choco --version
 ```powershell
 choco install ChocolateyGUI
 ```
+![img-description](/assets/img/Blog/choco_gui.png)
