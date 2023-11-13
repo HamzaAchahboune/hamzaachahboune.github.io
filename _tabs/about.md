@@ -10,7 +10,7 @@ order: 4
 
 
 <div class="button-container">
-    <a href="/assets/HamzaAchahbounCv.pdf" download class="download-button"><strong>Download Resume</strong></a>
+    
     <a href="https://www.credly.com/users/hamza-achahboune/badges" class="badges-button"><strong>View My Badges</strong></a>
 </div>
 
