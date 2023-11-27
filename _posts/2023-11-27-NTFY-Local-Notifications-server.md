@@ -111,7 +111,7 @@ fi
 After Running the script i have recieve the notification on my phone and web application 
 # ![img-description](/assets/img/Blog/7.png)
 
-Sure, here's a sample conclusion for your blog post:
+
 
 ## Conclusion
 
