@@ -7,8 +7,9 @@ author: Hamza Achahboune
 layout: post
 ---
 
-# Example Configurations for Fail2Ban Custom Filters
+
 ![img-description](/assets/img/Blog/fail2ban_conf.png)
+# Example Configurations for Fail2Ban Custom Filters
 ### Blocking Failed WordPress Login Attempts :
 
 WordPress is a popular content management system that is often targeted by hackers. You can use Fail2Ban to block failed login attempts to the WordPress admin panel. To create a custom filter for this, add the following code to a new filter configuration file:
