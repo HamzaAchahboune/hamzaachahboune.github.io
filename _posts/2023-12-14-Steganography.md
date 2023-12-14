@@ -8,6 +8,7 @@ layout: post
 ---
 
 # Steganography - What is, Techniques, & Examples
+![steg](https://github.com/HamzaAchahboune/hamzaachahboune.github.io/assets/98817020/96499929-745c-40b6-aa57-6356086bee5f)
 
 
 ## What is Steganography :
