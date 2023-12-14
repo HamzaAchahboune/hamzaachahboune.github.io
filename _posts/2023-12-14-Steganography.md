@@ -1,7 +1,7 @@
 ---
 title: "Steganography"
 date: 2023-12-14 00:00:00 +0000
-categories: [Cybersecuriy]
+categories: [Cybersecurity]
 tags: [Steganography]    
 author: Hamza Achahboune
 layout: post
