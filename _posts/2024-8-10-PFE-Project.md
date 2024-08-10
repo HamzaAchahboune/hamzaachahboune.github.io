@@ -1,5 +1,5 @@
 ---
-title: "Advanced Log Management and Analysis for Enhanced Network Security with ELK"
+title: "Elastic ELK"
 date: 2024-8-10 00:00:00 +0000
 categories: [Cybersecurity]
 tags: [ELK]    
@@ -7,7 +7,7 @@ author: Hamza Achahboune
 layout: post
 ---
 # Project Title: Centralized Log Management with ELK Stack
-![steg](assets/img/Blog/cires.png)
+![cires](https://github.com/user-attachments/assets/6e051a57-4523-48c0-a667-deb0e443cc5e)
 ## Overview
 
 This project focuses on implementing a centralized log management system using the ELK Stack (Elasticsearch, Logstash, Kibana), along with Beats agents (Filebeat and Packetbeat). The aim is to efficiently collect, centralize, analyze, and visualize log data and network traffic from various sources, enhancing the overall observability and security of IT infrastructure.
