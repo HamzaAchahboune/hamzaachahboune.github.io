@@ -1,5 +1,5 @@
 ---
-title: "Steganography"
+title: "Advanced Log Management and Analysis for Enhanced Network Security with ELK"
 date: 2024-8-10 00:00:00 +0000
 categories: [Cybersecurity]
 tags: [ELK]    
@@ -7,7 +7,7 @@ author: Hamza Achahboune
 layout: post
 ---
 # Project Title: Centralized Log Management with ELK Stack
-
+![steg](assets/img/Blog/cires.png)
 ## Overview
 
 This project focuses on implementing a centralized log management system using the ELK Stack (Elasticsearch, Logstash, Kibana), along with Beats agents (Filebeat and Packetbeat). The aim is to efficiently collect, centralize, analyze, and visualize log data and network traffic from various sources, enhancing the overall observability and security of IT infrastructure.
@@ -189,6 +189,4 @@ In this project, I managed various types of logs to ensure comprehensive monitor
 This project successfully implements a robust log management and network monitoring solution using the ELK Stack and Beats. It provides a scalable and efficient way to collect, centralize, and visualize logs and network traffic, enabling proactive monitoring and quick incident response.
 
 
-# Steganography - What is, Techniques, & Examples
-![steg](https://github.com/HamzaAchahboune/hamzaachahboune.github.io/assets/98817020/96499929-745c-40b6-aa57-6356086bee5f)
 
