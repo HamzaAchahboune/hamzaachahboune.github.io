@@ -184,6 +184,11 @@ In this project, I managed various types of logs to ensure comprehensive monitor
 - **Data Connectivity**: Ensuring Beats agents are successfully sending data to Elasticsearch.
 - **Functionality Tests**: Querying Elasticsearch with `curl` to validate data ingestion.
 
+## Demo
+[![Watch the first video](https://img.youtube.com/vi/o9htsSnp5lM/0.jpg)](https://youtu.be/o9htsSnp5lM)
+
+[![Watch the second video](https://img.youtube.com/vi/nmH8PCDDzq0/0.jpg)](https://youtu.be/nmH8PCDDzq0)
+
 ## Conclusion
 
 This project successfully implements a robust log management and network monitoring solution using the ELK Stack and Beats. It provides a scalable and efficient way to collect, centralize, and visualize logs and network traffic, enabling proactive monitoring and quick incident response.
