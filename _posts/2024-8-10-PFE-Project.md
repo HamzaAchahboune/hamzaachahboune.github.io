@@ -185,8 +185,11 @@ In this project, I managed various types of logs to ensure comprehensive monitor
 - **Functionality Tests**: Querying Elasticsearch with `curl` to validate data ingestion.
 
 ## Demo
+
+#### 1. Network part
 [![Watch the first video](https://img.youtube.com/vi/o9htsSnp5lM/0.jpg)](https://youtu.be/o9htsSnp5lM)
 
+#### 2. System part
 [![Watch the second video](https://img.youtube.com/vi/nmH8PCDDzq0/0.jpg)](https://youtu.be/nmH8PCDDzq0)
 
 ## Conclusion
