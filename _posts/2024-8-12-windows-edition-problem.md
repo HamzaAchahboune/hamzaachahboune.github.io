@@ -40,9 +40,12 @@ Ensure you have a bootable USB drive with the Windows installation files.
 
 1. Navigate to the `Sources` folder on your USB drive.
 2. Copy the `ei.cfg` file you created and place it in the `Sources` folder.
-![Capture d'écran 2024-08-12 141651](https://github.com/user-attachments/assets/0a6c19a0-ce35-4c2c-8daa-c93cc1401564)
 
 ![1](https://github.com/user-attachments/assets/aba1201f-0910-4894-8979-801a5746adf7)
+
+![Capture d'écran 2024-08-12 141651](https://github.com/user-attachments/assets/0a6c19a0-ce35-4c2c-8daa-c93cc1401564)
+
+
 
 ### 4. Boot from the USB Drive
 
