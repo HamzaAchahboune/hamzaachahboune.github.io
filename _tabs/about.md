@@ -4,13 +4,14 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# <span style="color:#8ab4f8">I'm a Network</span> and Computer Science Engineering Student
+# <span style="color:#8ab4f8">I'm a Network</span> and Computer Science Engineer
 
-<span style="font-family: 'Your Font Name', sans-serif;">I am Hamza Achahboune, and I am actively seeking an internship opportunity for my End of Studies Project. (PFE), starting on 1st March. I am eager to apply my professional knowledge and tackle new challenges in the areas of Networking, Cloud, or Cybersecurity. I am looking for a company that can provide me with the opportunity to gain practical experience and further develop my skills.</span>
+<span style="font-family: 'Your Font Name', sans-serif;">I am a dedicated engineer with a strong foundation in Networking, Cloud, and Cybersecurity. With a passion for technology and a commitment to continuous learning, I thrive on tackling complex challenges and delivering innovative solutions. My academic background has equipped me with the skills necessary to excel in dynamic environments, and I am eager to contribute my expertise to projects that drive progress and enhance security in our interconnected world.</span>
 
 
 <div class="button-container">
     <a href="/assets/HamzaAchahbounCv.pdf" download class="download-button"><strong>Download Resume</strong></a>
+    <a href="https://www.credly.com/users/hamza-achahboune/badges" class="badges-button"><strong>Download Badges</strong></a>
     <a href="https://www.credly.com/users/hamza-achahboune/badges" class="badges-button"><strong>Download Badges</strong></a>
 </div>
 
@@ -49,8 +50,8 @@ My Education
 
 <div style="display: flex;">
     <div style="border: 1px solid #ccc; flex: 1; margin: 10px; padding: 10px; border-radius: 5px; box-shadow: 2px 2px 4px #888; background-color: #1E1E1E;">
-        <span style="font-family: 'Your Font'; font-size: 24px; color: #fff; font-weight: bold;">Network and Computer Science Engineering student</span>
-        <p style="color: #8ab4f8;">Moroccan School of Engineering Sciences Tangier (2022 - 2023)</p>
+        <span style="font-family: 'Your Font'; font-size: 24px; color: #fff; font-weight: bold;">Network and Computer Science Engineer</span>
+        <p style="color: #8ab4f8;">Moroccan School of Engineering Sciences Tangier (2022 - 2024)</p>
     </div>
 </div>
 
