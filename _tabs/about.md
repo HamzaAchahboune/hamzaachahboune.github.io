@@ -12,7 +12,7 @@ order: 4
 <div class="button-container">
     <a href="/assets/HamzaAchahbounCv.pdf" download class="download-button"><strong>Download Resume</strong></a>
     <a href="https://www.credly.com/users/hamza-achahboune/badges" class="badges-button"><strong>Download Badges</strong></a>
-    <a href="[https://www.credly.com/users/hamza-achahboune/badges](https://www.coursera.org/user/57ed185bbe5bf836e3dc3e01e387de8e)" class="badges-button"><strong>Coursera Badges</strong></a>
+    <a href="https://www.coursera.org/user/57ed185bbe5bf836e3dc3e01e387de8e)" class="badges-button"><strong>Coursera Badges</strong></a>
 </div>
 
 <style>
