@@ -9,7 +9,7 @@ layout: post
 # How to Install SnipeIT with Docker
 
 
-![img-description](/assets/img/Blog/snipe-1.jpg){: .shadow }
+![img-description](/assets/img/Blog/snipe-1.jpg)
 
 
 
@@ -130,6 +130,7 @@ http://ip:8888
 ![Local Image](/assets/img/Blog/snipe-4.png)
 
 Then you will see the SnipeIT dashboard
+
 
 
 This tutorial is finished have a great day! 😃
