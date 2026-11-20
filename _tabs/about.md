@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+permalink: /
 ---
 
 # <span style="color:#8ab4f8">I'm a Network</span> and Computer Science Engineer
