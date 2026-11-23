@@ -4,7 +4,7 @@ layout: page
 title: About
 ---
 
-# <span style="color:#8ab4f8">I'm a Network</span> and Computer Science Engineer
+# <span style="color:#8ab4f8">I'm a IT</span> Engineer
 
 <span style="font-family: 'Your Font Name', sans-serif;">I am a dedicated engineer with a strong foundation in Networking, Cloud, and Cybersecurity. With a passion for technology and a commitment to continuous learning, I thrive on tackling complex challenges and delivering innovative solutions. My academic background has equipped me with the skills necessary to excel in dynamic environments, and I am eager to contribute my expertise to projects that drive progress and enhance security in our interconnected world.</span>
 
@@ -42,64 +42,6 @@ title: About
 }
 </style>
 
-My Education
---------------
 
 
 
-
-<div style="display: flex;">
-    <div style="border: 1px solid #ccc; flex: 1; margin: 10px; padding: 10px; border-radius: 5px; box-shadow: 2px 2px 4px #888; background-color: #1E1E1E;">
-        <span style="font-family: 'Your Font'; font-size: 24px; color: #fff; font-weight: bold;">Network and Computer Science Engineer</span>
-        <p style="color: #8ab4f8;">Moroccan School of Engineering Sciences Tangier (2022 - 2024)</p>
-    </div>
-</div>
-
-<div style="display: flex;">
-    <div style="border: 1px solid #ccc; flex: 1; margin: 10px; padding: 10px; border-radius: 5px; box-shadow: 2px 2px 4px #888; background-color: #1E1E1E;">
-        <span style="font-family: 'Your Font'; font-size: 24px; color: #fff; font-weight: bold;">Specialized Technician diploma in Networks and Computer Science</span>
-        <p style="color: #8ab4f8;">Specialized Institute of Applied Technology Khenifra (2019/2021)</p>
-    </div>
-</div>
-
-<div style="display: flex;">
-    <div style="border: 1px solid #ccc; flex: 1; margin: 10px; padding: 10px; border-radius: 5px; box-shadow: 2px 2px 4px #888; background-color: #1E1E1E;">
-        <span style="font-family: 'Your Font'; font-size: 24px; color: #fff; font-weight: bold;">Baccalaureate in physical and chemical science</span>
-        <p style="color: #8ab4f8;">Moulay Rachid High School (2018/2019)</p>
-    </div>
-</div>
-
-My Experiences
---------------
-
-<div style="display: flex;">
-    <div style="border: 1px solid #ccc; flex: 1; margin: 10px; padding: 10px; border-radius: 5px; box-shadow: 2px 2px 4px #888; background-color: #1E1E1E;">
-        <span style="font-family: 'Your Font'; font-size: 24px; color: #fff; font-weight: bold;">Cybersecurity Analyst</span>
-        <p style="color: #8ab4f8;">Yafa Technologies - Tetouan (2023/07 - 2023/08)</p>
-        <ul style="color: #fff;">
-            <li>Assessment of vulnerabilities in the internal network of the company</li>
-        </ul>
-    </div>
-</div>
-
-<div style="display: flex;">
-    <div style="border: 1px solid #ccc; flex: 1; margin: 10px; padding: 10px; border-radius: 5px; box-shadow: 2px 2px 4px #888; background-color: #1E1E1E;">
-        <span style="font-family: 'Your Font'; font-size: 24px; color: #fff; font-weight: bold;">System Administrator</span>
-        <p style="color: #8ab4f8;">Cloud Marketing Hub - Tangier (2022/08)</p>
-        <ul style="color: #fff;">
-            <li>Building a virtual network based on ESXi Technology from VMware (<a href="https://github.com/HamzaAchahboune/ESXI-hypervisor" style="color: #8ab4f8; font-weight: bold;" target="_blank">GitHub Link</a>)</li>
-            <li>Capturing, deploying, and managing Windows OS in the network using FOGPROJECT (<a href="https://github.com/HamzaAchahboune/Fog_Project" style="color: #8ab4f8; font-weight: bold;" target="_blank">GitHub Link</a>)</li>
-        </ul>
-    </div>
-</div>
-
-<div style="display: flex;">
-    <div style="border: 1px solid #ccc; flex: 1; margin: 10px; padding: 10px; border-radius: 5px; box-shadow: 2px 2px 4px #888; background-color: #1E1E1E;">
-        <span style="font-family: 'Your Font'; font-size: 24px; color: #fff; font-weight: bold;">Network Administrator</span>
-        <p style="color: #8ab4f8;">Urban Agency of Khenifra (2021)</p>
-        <ul style="color: #fff;">
-            <li>Simulation of a smart home using Packet Tracer</li>
-            <li>Installation of a biometric time clock and connecting it to a switch</li>
-        </ul>
-    </div>
-</div>
